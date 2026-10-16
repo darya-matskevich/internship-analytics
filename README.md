@@ -1,2 +1,1 @@
-# internship-analytics
-Учебные материалы и задания по бизнес- и системному анализу.
+# Business and Systems Analysis
